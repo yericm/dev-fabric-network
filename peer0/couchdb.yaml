@@ -1,0 +1,8 @@
+couchdb0:
+  container_name: my-couchdb-for-peer0
+  image: hyperledger/fabric-couchdb
+  environment:
+    - COUCHDB_USER=admin
+    - COUCHDB_PASSWORD=adminpw
+  ports:
+    - "5984:5984"

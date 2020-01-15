@@ -1,0 +1,6 @@
+citybrain_cc
+.idea
+.bash_history
+.DS_Store
+*.iml
+*.log

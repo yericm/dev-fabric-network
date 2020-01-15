@@ -1,0 +1,1 @@
+FABRIC_CA_CLIENT_HOME=$PWD/fabric-ca-server/ca fabric-ca-client $*
