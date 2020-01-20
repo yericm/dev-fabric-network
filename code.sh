@@ -7,7 +7,8 @@ else
 fi
 
 if [[ $2 == '' ]]; then
-	chaincode_path=citybrain_cc
+	#chaincode_path=citybrain_cc
+	chaincode_path=java
 else
 	chaincode_path=$2
 fi
