@@ -1,6 +1,6 @@
 couchdb0:
   container_name: my-couchdb-for-peer0
-  image: hyperledger/fabric-couchdb
+  image: hyperledger/fabric-couchdb:amd64-0.4.20
   environment:
     - COUCHDB_USER=admin
     - COUCHDB_PASSWORD=adminpw
