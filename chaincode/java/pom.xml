@@ -24,14 +24,14 @@
 	</properties>
 	
     <repositories>
-        <repository>
+        <!-- <repository>
             <id>jitpack.io</id>
             <url>https://www.jitpack.io</url>
-        </repository>
-		<repository>
+        </repository> -->
+		<!-- <repository>
             <id>nexus</id>
             <url>https://nexus.hyperledger.org/content/repositories/snapshots/</url>
-        </repository>
+        </repository> -->
     </repositories>
 
 	<dependencies>
